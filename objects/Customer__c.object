@@ -93,7 +93,7 @@
     <recordTypes>
         <fullName>Test_Record_Label</fullName>
         <active>true</active>
-        <label>Test Record Label</label>
+        <label>Test Record Label2</label>
     </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
