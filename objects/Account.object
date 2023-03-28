@@ -514,6 +514,7 @@
     <recordTypes>
         <fullName>Global_Ecosystem</fullName>
         <active>true</active>
+        <description>Global Innovation Ecosystem</description>
         <label>Global Innovation Ecosystem</label>
         <picklistValues>
             <picklist>AccountSource</picklist>
