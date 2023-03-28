@@ -514,7 +514,7 @@
     <recordTypes>
         <fullName>seller</fullName>
         <active>true</active>
-        <label>seller3</label>
+        <label>Individual seller</label>
         <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
