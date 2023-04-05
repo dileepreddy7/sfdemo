@@ -69,7 +69,7 @@
         <fullName>Global_Ecosystem</fullName>
         <active>true</active>
         <description>Global Innovation Ecosystem</description>
-        <label>Global Innovation Ecosystem test2</label>
+        <label>Global Ecosystem</label>
     </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
