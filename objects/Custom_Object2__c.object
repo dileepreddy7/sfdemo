@@ -164,7 +164,7 @@
     <recordTypes>
         <fullName>Global_Ecosystem</fullName>
         <active>true</active>
-        <label>Global Innovation Ecosystem</label>
+        <label>Global Innovation Ecosystem test</label>
     </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
