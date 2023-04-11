@@ -4,10 +4,6 @@
     <label>FLEX Internal</label>
     <license>Identity</license>
     <tabSettings>
-        <tab>Custom_Object1__c</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
-    <tabSettings>
         <tab>standard-Chatter</tab>
         <visibility>Visible</visibility>
     </tabSettings>
