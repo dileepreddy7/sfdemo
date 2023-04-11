@@ -4,7 +4,11 @@
     <label>FLEX Internal</label>
     <license>Identity</license>
     <tabSettings>
-        <tab>standard-Dashboard</tab>
+        <tab>standard-Chatter</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>standard-Sites</tab>
         <visibility>Visible</visibility>
     </tabSettings>
 </PermissionSet>
