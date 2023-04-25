@@ -3745,6 +3745,13 @@
         <layout>Account-Account %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Account__c-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account__c-Account Layout</layout>
+        <recordType>Account__c.Test_Record_Label</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>AlternativePaymentMethod-Alternative Payment Method Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3770,6 +3777,13 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>AssignedResource-Assigned Resource Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Assset__c-Assset Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Assset__c-Assset Layout</layout>
+        <recordType>Assset__c.Test_Record_Label</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>AuthorizationForm-Authorization Form Layout</layout>
@@ -3863,6 +3877,20 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>CreditMemoLine-Credit Memo Line Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Object1__c-Custom_Object1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Object1__c-Custom_Object1 Layout</layout>
+        <recordType>Custom_Object1__c.Global_Ecosystem</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Object2__c-Custom_Object2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Object2__c-Custom_Object2 Layout</layout>
+        <recordType>Custom_Object2__c.Global_Ecosystem</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Customer-Customer Layout</layout>
@@ -4072,6 +4100,9 @@
         <layout>User-User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>UserAlt-User Profile Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>UserProvAccount-User Provisioning Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4122,6 +4153,12 @@
     <layoutAssignments>
         <layout>WorkTypeGroupMember-Work Type Group Member Layout</layout>
     </layoutAssignments>
+    <loginHours>
+        <mondayEnd>300</mondayEnd>
+        <mondayStart>180</mondayStart>
+        <sundayEnd>1380</sundayEnd>
+        <sundayStart>0</sundayStart>
+    </loginHours>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -4267,10 +4304,34 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Account__c.Test_Record_Label</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Assset__c.Test_Record_Label</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Custom_Object1__c.Global_Ecosystem</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Custom_Object2__c.Global_Ecosystem</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
+    <tabVisibilities>
+        <tab>Custom_Object1__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Account</tab>
         <visibility>DefaultOn</visibility>
