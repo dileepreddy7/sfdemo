@@ -4158,10 +4158,18 @@
       <layout>WorkTypeGroupMember-Work Type Group Member Layout</layout>
    </layoutAssignments>
    <loginHours>
+      <fridayEnd>1080</fridayEnd>
+      <fridayStart>960</fridayStart>
       <mondayEnd>180</mondayEnd>
       <mondayStart>180</mondayStart>
       <sundayEnd>60</sundayEnd>
       <sundayStart>0</sundayStart>
+      <thursdayEnd>960</thursdayEnd>
+      <thursdayStart>840</thursdayStart>
+      <tuesdayEnd>600</tuesdayEnd>
+      <tuesdayStart>540</tuesdayStart>
+      <wednesdayEnd>900</wednesdayEnd>
+      <wednesdayStart>780</wednesdayStart>
    </loginHours>
    <objectPermissions>
       <allowCreate>true</allowCreate>
